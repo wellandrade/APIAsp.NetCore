@@ -1,0 +1,18 @@
+GET 
+{
+  "id": "f8f19b45-59fa-44aa-b75f-8ef6f186d657",
+  "nome": "Nome",
+  "documento": "12345677789",
+  "endereco": {
+	  "id": "b44f6160-b3ba-417a-b156-05044156bfef",
+	  "logradouro": "Logradouro",
+	  "numero": "12347",
+	  "complemento": "",
+	  "cep": "05888130",
+	  "bairro": "Parque Fernanda",
+	  "cidade": "Cidade",
+	  "estado": "SP",
+	  "fornecedorId": "00000000-0000-0000-0000-000000000000"
+	},
+  "ativo": false
+}
